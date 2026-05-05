@@ -1,4 +1,4 @@
-# NexusAI — Premium Intelligence Platform
+# NexusAI — AI Powerd Intelligent Platform
 
 NexusAI is a production-grade AI assistant platform featuring intelligent intent routing, dual-layer memory (ST/LT), and a professional SaaS UI. It enables users to interact with various AI capabilities including web search, document analysis (RAG), and long-term context retention.
 
