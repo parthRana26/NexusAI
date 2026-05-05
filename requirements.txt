@@ -1,0 +1,49 @@
+# --- Backend ---
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+gunicorn>=21.2.0
+python-multipart>=0.0.7
+pydantic[email]>=2.6.0
+pydantic-settings>=2.1.0
+starlette>=0.36.0
+
+# --- Frontend ---
+streamlit>=1.32.0
+pandas>=2.1.0
+numpy>=1.26.0
+pillow>=10.2.0
+
+# --- Database ---
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+alembic>=1.13.0
+
+# --- Security & Auth ---
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.0
+bcrypt>=4.1.0
+email-validator>=2.1.0
+
+# --- AI & RAG ---
+groq>=0.4.0
+openai>=1.12.0
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.20
+qdrant-client>=1.7.0
+sentence-transformers>=2.3.0
+
+# --- Search & Tools ---
+tavily-python>=0.3.0
+wikipedia>=1.4.0
+
+# --- Document Processing ---
+pypdf>=4.0.0
+pdfplumber>=0.10.0
+python-docx>=1.1.0
+
+# --- Utilities ---
+requests>=2.31.0
+httpx>=0.26.0
+python-dotenv>=1.0.0
+python-slugify>=8.0.0
